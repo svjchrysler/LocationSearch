@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Room Location</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB96SLC6p4Rb5T3QzpJJPJ3UbuiwYauBlA</string>
+</resources>
